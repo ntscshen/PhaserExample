@@ -71,16 +71,6 @@ game.states = {
             game.load.image('btn2Test', 'http://occeqxmsk.bkt.clouddn.com/OneMoreGame.png');
             game.load.image('perosnTest', 'http://occeqxmsk.bkt.clouddn.com/perosn.png');
             game.load.audio('bgMusicTest', 'http://occeqxmsk.bkt.clouddn.com/img/music.mp3');
-            game.load.image('bg1Test', '//24haowan-cdn.shanyougame.com/pickApple2/assets/images/bg.png');
-            game.load.image('dude1Test', '//24haowan-cdn.shanyougame.com/pickApple2/assets/images/dude.png');
-            game.load.image('green1Test', '//24haowan-cdn.shanyougame.com/pickApple2/assets/images/green.png');
-            game.load.image('red1Test', '//24haowan-cdn.shanyougame.com/pickApple2/assets/images/red.png');
-            game.load.image('yellow1Test', '//24haowan-cdn.shanyougame.com/pickApple2/assets/images/yellow.png');
-            game.load.image('bomb1Test', '//24haowan-cdn.shanyougame.com/pickApple2/assets/images/bomb.png');
-            game.load.image('five1Test', '//24haowan-cdn.shanyougame.com/pickApple2/assets/images/five.png');
-            game.load.image('three1Test', '//24haowan-cdn.shanyougame.com/pickApple2/assets/images/three.png');
-            game.load.image('one1Test', '//24haowan-cdn.shanyougame.com/pickApple2/assets/images/one.png');
-            game.load.audio('bgMusic1Test', '//24haowan-cdn.shanyougame.com/pickApple2/assets/audio/bgMusic.mp3');
             // 进度条 || 百分比
             var progressTxt = game.add.text(game.world.centerX, game.world.centerY, '0%', {
                 fontSize: '60px',
